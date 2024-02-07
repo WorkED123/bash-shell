@@ -61,21 +61,16 @@ Bash, written by Brian Jhan Fox, acts as a command-line interpreter or Unix Shel
 
 <h2>NICE Framework KSAs</h2>
 <ul>
-<li>K0001 - Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
+<li>K0224 - Knowledge of system administration concepts for operating systems such as but not limited to Unix/Linux, IOS, Android, and Windows operating systems.</li>
 <br>
-<li>K0010 - Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
+<li>K0397 - Knowledge of security concepts in operating systems (e.g., Linux, Unix.)</li>
 <br>
-<li>K0011 - Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
+<li>K0537 - Knowledge of system administration concepts for the Unix/Linux and Windows operating systems (e.g., process management, directory structure, installed applications, Access Controls).</li>
 <br>
-<li>K0034 - Knowledge of network services and protocol interactions that provide network communications.</li>
+<li>S0067 - Skill in identifying, modifying, and manipulating applicable system components within Windows, Unix, or Linux (e.g., passwords, user accounts, files).</li>
 <br>
-<li>K0057 - Knowledge of network hardware devices and functions.</li>
-<br>
-<li>K0061 - Knowledge of how traffic flows across the network</li>
-<br>
-<li>K0111 - Knowledge of network tools</li>
-<br>
-<li>K0113 - Knowledge of different types of network communication</li>
+<li>K0608 - Knowledge of Unix/Linux and Windows operating systems structures and internals (e.g., process management, directory structure, installed applications).</li>
+
 </ul>
 
 
