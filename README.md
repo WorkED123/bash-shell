@@ -183,6 +183,6 @@ In closing, mastering Bash scripting will not only make you adept at navigating 
 
 <h2> Additional Resources</h2>
 
-<a href="https://youtu.be/7jKcCqlTfxc">Introduction to Linux Bash Shell Scripting for Hackers</a> - This Linux bash scripting course targets aspiring ethical hackers and cybersecurity professionals <br>
+<a href="https://youtu.be/7jKcCqlTfxc">Introduction to Linux Bash Shell Scripting for Hackers</a> - This Linux bash scripting course targets aspiring ethical hackers and cybersecurity professionals. <br>
 
-<a href="https://youtu.be/_laEEFdPX2s">Bash Scripts You NEED to know for Cybersecurity </a> - Bash Programming for Penetration Testing Cybersecurity cyber security
+<a href="https://youtu.be/_laEEFdPX2s">Bash Scripts You NEED to know for Cybersecurity </a> - Bash Programming for Penetration Testing Cybersecurity cyber security.
