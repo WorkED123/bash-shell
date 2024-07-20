@@ -61,15 +61,15 @@ Bash, written by Brian Jhan Fox, acts as a command-line interpreter or Unix Shel
 
 <h2>NICE Framework KSAs</h2>
 <ul>
-<li>K0224 - Knowledge of system administration concepts for operating systems such as but not limited to Unix/Linux, IOS, Android, and Windows operating systems.</li>
+<li>K0224: Knowledge of system administration concepts for operating systems such as but not limited to Unix/Linux, IOS, Android, and Windows operating systems.</li>
 <br>
-<li>K0397 - Knowledge of security concepts in operating systems (e.g., Linux, Unix.)</li>
+<li>K0397: Knowledge of security concepts in operating systems (e.g., Linux, Unix.)</li>
 <br>
-<li>K0537 - Knowledge of system administration concepts for the Unix/Linux and Windows operating systems (e.g., process management, directory structure, installed applications, Access Controls).</li>
+<li>K0537: Knowledge of system administration concepts for the Unix/Linux and Windows operating systems (e.g., process management, directory structure, installed applications, Access Controls).</li>
 <br>
-<li>S0067 - Skill in identifying, modifying, and manipulating applicable system components within Windows, Unix, or Linux (e.g., passwords, user accounts, files).</li>
+<li>S0067: Skill in identifying, modifying, and manipulating applicable system components within Windows, Unix, or Linux (e.g., passwords, user accounts, files).</li>
 <br>
-<li>K0608 - Knowledge of Unix/Linux and Windows operating systems structures and internals (e.g., process management, directory structure, installed applications).</li>
+<li>K0608: Knowledge of Unix/Linux and Windows operating systems structures and internals (e.g., process management, directory structure, installed applications).</li>
 
 </ul>
 
@@ -166,7 +166,34 @@ In closing, mastering Bash scripting will not only make you adept at navigating 
 
 <ins>Remember:</ins> Understanding the system, automation, and consistent monitoring are pivotal in cybersecurity, and Bash scripting is a potent tool for achieving these.
 
+<h2>Definitions</h2>
+<ul>
+<li><b>Linux:</b> An open-source, Unix-like operating system kernel that serves as the foundation for various operating systems known as Linux distributions.<br>
+<br>
 
+<li><b>History:</b> A command in Linux and Unix-like systems that displays a list of previously executed commands.<br>
+<br>
+
+<li><b>CLI (Command Line Interface):</b> A text-based interface that allows users to interact with the operating system or software by typing commands.<br>
+<br>
+
+<li><b>Echo:</b> A command used in Linux to display a line of text or variables' values on the terminal.<br>
+<br>
+
+<li><b>Help:</b> A command or option used to display a summary of available commands and their usage in a command-line environment.<br>
+<br>
+
+<li><b>Bash:</b> A widely used Unix shell and command language that provides an interface for users to interact with the operating system.<br>
+<br>
+
+<li><b>Cat:</b> A command in Linux used to concatenate and display the contents of files on the terminal.<br>
+<br>
+
+<li><b>Date:</b> A command that shows the current date and time in various formats.<br>
+<br>
+
+<li><b>Cal:</b> A command that displays a calendar for a specified month and year or the current month.
+</ul>
 
 <h2> Presentation</h2>
 
@@ -175,6 +202,7 @@ In closing, mastering Bash scripting will not only make you adept at navigating 
 
 <h2> Hands-On Labs</h2>
 <a href="https://docs.google.com/document/d/1isxIfQfzX5HHg3ykkETT4Lgs1HxBlqQThhP5lqhDigQ/edit?usp=sharing"> Bash Shell Scripting </a> - This lab will demonstrate the basics of using the Linux Command Line Interface (CLI), the terminal.
+<h2>Games</h2>
 
 <h2> Additional Resources</h2>
 
